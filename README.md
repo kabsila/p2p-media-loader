@@ -1,3 +1,4 @@
+Have a p2p solution with a tracker  that actually scale   nice a free for you
 # P2P Media Loader
 
 **P2P Media Loader** is an open-source JavaScript library that uses features of modern browsers (i.e. WebRTC) to deliver media over P2P. It doesn’t require any browser plugins or addons to function.
